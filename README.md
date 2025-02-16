@@ -1,11 +1,17 @@
-<h2 align="left">Hi 👋! My name is Archana Joshi and I'm a Software Engineer, from Bangalore.</h2>
+# Hi there 👋 I'm Archana
 
-###
+[![GitHub followers](https://img.shields.io/github/followers/ArchanaNjoshi?label=Follow&style=social)](https://github.com/ArchanaNjoshi)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchanaNjoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchanaNjoshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+## 💻 Java Backend Developer | Java Enthusiast
+
+I'm a passionate developer working on various projects across different technologies. Currently focusing on Java development and web applications.
+
+### 🛠️ Tech Stack
+- **Languages:** Java, Typescript
+- **Framework and Libraries:** Spring boot, Hibernate, Restful APIs, Node.js, React
+- **Database:** SQL, NoSQL
+- **Testing:** Junit, Mockito, Hoverfly, Pactflow
+- **Tools & Platforms:** Kafka, OpenAPI, Redis, Git, Solid principles, Design patterns
 
 ###
 
@@ -33,29 +39,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
-###
+### 📊 GitHub Stats
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/archana-n-joshi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="archana.n.joshi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchanaNjoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArchanaNjoshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArchanaNjoshi/ArchanaNjoshi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 🤝 My Socials<br/><br/>
+<a href="https://www.linkedin.com/in/archana-n-joshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.github.com/ArchanaNjoshi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+
+### 🌐 Find me around the web
+- Portfolio Website: []()
+- Personal Projects: [View All Projects](https://github.com/ArchanaNjoshi?tab=repositories)
+
+---
+
+💡 **Note:** Currently working on Java projects and enjoying building efficient, performant applications.
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ArchanaNjoshi/count.svg?"  />
 </div>
 
 ###
-
+[![Website]()]()
 
