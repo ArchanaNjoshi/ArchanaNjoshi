@@ -6,6 +6,10 @@
 
 I'm a passionate developer working on various projects across different technologies. Currently focusing on Java development and web applications.
 
+### 🌐 Find me around the web
+- Portfolio Website: [My Portfolio](https://archananjoshi.github.io/ArchanaNjoshi-portfolio/)
+- Personal Projects: [View All Projects](https://github.com/ArchanaNjoshi?tab=repositories)
+
 ### 🛠️ Tech Stack
 - **Languages:** Java, Typescript
 - **Framework and Libraries:** Spring boot, Hibernate, Restful APIs, Node.js, React
@@ -53,10 +57,6 @@ I'm a passionate developer working on various projects across different technolo
 <a href="https://www.linkedin.com/in/archana-n-joshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/ArchanaNjoshi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-
-### 🌐 Find me around the web
-- Portfolio Website: [](https://archananjoshi.github.io/ArchanaNjoshi-portfolio/)
-- Personal Projects: [View All Projects](https://github.com/ArchanaNjoshi?tab=repositories)
 
 ---
 
